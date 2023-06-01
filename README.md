@@ -1,4 +1,4 @@
-# messenger_application
+# Messenger application (Vue)
 
 ## Project setup
 ```
